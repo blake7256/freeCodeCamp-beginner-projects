@@ -1,0 +1,55 @@
+.body1{
+    background-color: lightblue;
+    color: black;
+    font-family: 'Amiko';
+   
+
+}
+.heading{
+    background-color:white;
+}
+.fa:hover {
+    opacity: 0.3;
+}
+
+.icon-bar a{
+    
+    font-size: 20px;
+    width: 8%;
+    
+    color: white;
+    padding: 5px;
+    padding-bottom: 1px;
+}
+
+.facebook {
+    background: #3B5998;
+    color: white;
+  }
+.twitter {
+    background: #55ACEE;
+    color: white;
+  }
+.linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .github{
+      background: black;
+  }
+ .pics{
+     display:flex;
+     flex-wrap: wrap;
+     
+ }
+ .pics img{
+     height: 50%;
+     width: 50%;
+     padding: 10px;
+ }
+ .jumbotron-fluid{
+     width: 150%;
+ }
+ .message1{
+     padding-left:50px;
+ }
